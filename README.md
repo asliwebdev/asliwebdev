@@ -1,15 +1,16 @@
 # Hi there, I'm Asliddin Bozorov 👋
 
 ## 👨‍💻 About Me
-I'm a passionate frontend developer from Tashkent, Uzbekistan, with experience in JavaScript/TypeScript, React.js, and Next.js. I enjoy working on web development projects and am always eager to learn new technologies and improve my skills.
+I'm a passionate fullstack web developer from Tashkent, Uzbekistan, with experience in JavaScript/TypeScript, React.js, and Next.js, Go. I enjoy working on web development projects and am always eager to learn new technologies and improve my skills.
 
 ## 🚀 What I Do
 - Building modern, responsive web applications using TypeScript, React, and Next.js.
+- Creating scalable apis.
 - Creating and maintaining reusable components and UI/UX designs.
 - Collaborating with teams to deliver high-quality software solutions.
 
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Go
 - **Frameworks/Libraries**: React, Next.js, Node.js
 - **Version Control**: Git, GitHub
 - **Package Managers**: npm
